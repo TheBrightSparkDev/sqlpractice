@@ -15,3 +15,5 @@ SQLAlchemy==1.4.37
 psycopg2 is the system that allows you to communicate in a python file to SQL using cursor.execute
 SQLAlchemy allows you to do it easier using layers of abstraction 
 SQLAlchemy also requires you to use the command set_pg
+
+sql-orm sucks
